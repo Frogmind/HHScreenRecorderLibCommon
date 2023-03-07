@@ -1,2 +1,2 @@
 # libcommon
-helper classes for myself
+check license.md
